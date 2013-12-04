@@ -1,0 +1,22 @@
+{
+  "name": "cool-error",
+  "description": "A shim module for wrapping error in a more elegant way",
+  "version": "0.1.0",
+  "keywords": [
+    "error",
+    "cool",
+    "nice",
+    "elegant",
+    "format"
+  ],
+  "author": "luckydrq",
+  "main": "./index.js",
+  "email": "drqzju@gmail.com",
+  "bug": "https://github.com/luckydrq/nice-error",
+  "dependencies": {
+    "colors": "~0.6.2"
+  },
+  "devDependencies": {
+    "node-dev": "~2.1.4"
+  }
+}
