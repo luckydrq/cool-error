@@ -1,4 +1,4 @@
-nice-error
+cool-error
 ==========
 
 A shim module for wrapping error in a more elegant way!
@@ -26,6 +26,6 @@ A shim module for wrapping error in a more elegant way!
 ```
 
 ####colors
-Feel free to use ```console.log('xxx'.red)``` after this module is required in your code. [colors](https://github.com/Marak/colors.js) is wrapped underlying.
+Feel free to use ```console.log('xxx'.red)``` in your code because [colors](https://github.com/Marak/colors.js) is wrapped underlying.
 
 
