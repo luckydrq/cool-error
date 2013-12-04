@@ -1,4 +1,4 @@
-cool-error
+nice-error
 ==========
 
-A shim module for wrapping error in a more elegant way
+A shim module for wrapping error in a more elegant way!
