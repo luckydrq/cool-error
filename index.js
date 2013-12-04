@@ -1,6 +1,10 @@
 var colors = require('colors')
 
 module.exports = exports = function(arg1, arg2){
+  if(arg1 instanceof Error){
+    if(arg2 === true) console.error(arg1.message.red)
+    throw arg1
+  }
   if(typeof arg1 === 'string') {
     if(arg2 === true) console.error(arg1.red)
     throw new Error(arg1)
